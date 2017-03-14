@@ -1,1 +1,1 @@
-xjc infrastructure/cda/CDA_SDTC.xsd -b binding.jxb 
+mvn clean package
